@@ -1,0 +1,7 @@
+{
+    "camera_index": 0,
+    "target_fps": 60,
+    "steering_sensitivity": 1.0,
+    "throttle_sensitivity": 1.0,
+    "show_debug_overlay": true
+}
